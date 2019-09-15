@@ -1,7 +1,7 @@
-# Real-Time-Object-Detection-using-Deep-Learning-and-Python.
-##### Detect upto 50 objects in real time using pre-trained deep learning models along with OpenCV and Python
+## Real-Time-Object-Detection-using-Deep-Learning-and-Python.
+### Detect upto 50 objects in real time using pre-trained deep learning models along with OpenCV and Python
 
-### * This algorithm can detect the following objects in real time
+#### * This algorithm can detect the following objects in real time
  	["background", "aeroplane", "bicycle", "bird", "boat",
 	"bottle", "bus", "car", "cat", "chair", "cow", "diningtable",
 	"dog", "horse", "motorbike", "person", "pottedplant", "sheep",
